@@ -59,7 +59,6 @@ npm-debug.log*
 *.bat
 
 # Ignore documentation and API keys
-*.md
 *.pdf
 *.pem
 
