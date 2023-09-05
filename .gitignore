@@ -1,0 +1,80 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore logs and temporary files
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Ignore dependency directories
+pnpm-lock.yaml
+package-lock.json
+
+# Ignore dotenv environment files
+.env
+
+# Ignore IDE and editor-specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+Thumbs.db
+Desktop.ini
+.editorconfig
+
+# Ignore test coverage directories
+coverage/
+.nyc_output/
+
+# Ignore build output
+build/
+
+# Ignore config files
+config.js
+config.json
+
+# Ignore npm debug files
+npm-debug.log*
+
+# Ignore yarn integrity file
+.yarn-integrity
+
+# Ignore .DS_Store files on macOS
+.DS_Store
+
+# Ignore compiled binary addons for Node.js
+*.node
+
+# Ignore development tools and scripts
+*.sh
+*.bat
+
+# Ignore documentation and API keys
+*.md
+*.pdf
+*.pem
+
+# Ignore package manager files
+yarn-error.log
+npm-debug.log
+yarn-debug.log
+
+# Ignore any local .env files
+**/.env.local
+
+# Ignore dist folders
+dist/
+output/
+inputs/
+
+# Ignore local SQLite databases
+*.sqlite
