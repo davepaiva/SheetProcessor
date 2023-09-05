@@ -9,7 +9,7 @@ To get started with this project, follow these simple instructions:
 1. Clone the repository to your local machine:
 
    ```sh
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/davepaiva/sheet-processor.git
    ```
 
 2. Cd into the project directory:
